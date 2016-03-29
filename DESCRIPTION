@@ -6,5 +6,5 @@ Maintainer: Chung-hong Chan <chainsawtiney@gmail.com>
 Description: Query OGCIO To Parse Hong Kong Addresses.
 Depends: R (>= 3.2.3)
 Imports: xml2, httr, magrittr, plyr
-License: MIT
+License: GPL-2
 LazyData: true
